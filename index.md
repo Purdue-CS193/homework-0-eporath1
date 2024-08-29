@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Ethan's Project
 ## Hello
-### Header 3
+### Does this work
 
 - Bulleted
 - List
